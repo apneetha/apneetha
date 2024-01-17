@@ -78,10 +78,46 @@
 
 
 
-  ## Database and Technologies
+## Database and Technologies
 
   <a href="">
   <img src="" alt="o" width="50" height="50">
 </a>
+
+  <a href="">
+  <img src="" alt="o" width="50" height="50">
+</a>
+
+  <a href="">
+  <img src="" alt="o" width="50" height="50">
+</a>
+
+  <a href="">
+  <img src="" alt="o" width="50" height="50">
+</a>
+
+  <a href="">
+  <img src="" alt="o" width="50" height="50">
+</a>
+
+  <a href="">
+  <img src="" alt="o" width="50" height="50">
+</a>
+
+  <a href="">
+  <img src="" alt="o" width="50" height="50">
+</a>
+
+
+  <a href="">
+  <img src="" alt="o" width="50" height="50">
+</a>
+
+  <a href="">
+  <img src="" alt="o" width="50" height="50">
+</a>
+
+
+## Project 
 
 
